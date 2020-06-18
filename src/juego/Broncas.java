@@ -9,7 +9,7 @@ public class Broncas extends Personaje{
 	
 	//Constructor
 	Broncas(JPanel MiJ, int x, int y){
-		super(MiJ); //Llamamos al constructor padre
+		super(MiJ);
 		this.x=x;
 		this.y=y;
 		this.Sentido="ESTE";
